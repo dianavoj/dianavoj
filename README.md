@@ -1,4 +1,5 @@
-# Hi, [Diana] here 
+# Hi, Diana here 
+![Static Badge](https://img.shields.io/badge/healthcare%20--%3E%20-data%20analytics-pink)
 
 Experienced healthcare professional currently transitioning into **data analytics**.  
 
