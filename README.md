@@ -25,8 +25,7 @@ Currently building my skills in data cleaning, data analysis, statistics, and da
 - Excel
 
 ## :ballot_box_with_check:Certifications 
-- Azure Data Fundamentals
-https://learn.microsoft.com/api/credentials/share/en-us/DianaVojevodina-4064/731058F9C9F67613?sharingId=51CD99EBD70C429E
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)[Azure Data Fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/DianaVojevodina-4064/731058F9C9F67613?sharingId=51CD99EBD70C429E)
 
 ## :sparkles:Current Goals 
 - Continue building practical data analytics projects
