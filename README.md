@@ -3,8 +3,8 @@
 
 Experienced healthcare professional currently transitioning into **data analytics**.  
 ## :sparkles:Connect With Me
-- LinkedIn: [[Add your LinkedIn link](https://www.linkedin.com/in/diana-vojevodina/)]
-- Email: [diana.vojevodina@gmail.com]
+[LinkedIn] (https://www.linkedin.com/in/diana-vojevodina/)
+[Email me] (mailto:diana.vojevodina@gmail.com)
 
 
 Why Data Analytics? :bar_chart:
