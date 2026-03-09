@@ -1,1 +1,37 @@
-# profile
+# Hi, [Diana] here 
+
+Experienced healthcare professional currently transitioning into **data analytics**.  
+
+Why Data Analytics? 
+- work for companies that reach people through their powerful missions
+- work in a field with continuous growth and opportunities
+
+ 
+Currently building my skills in data cleaning, data analysis, statistics, and data visualisation.
+
+## Current Learning stack
+- Complete Data Analyst Bootchamp
+- EPAM campus Data Software Engineering Program
+- AI Foundations Program
+
+## Skills:
+- SQL
+- Python
+- Excel
+
+## Certifications
+- Azure Data Fundamentals
+https://learn.microsoft.com/api/credentials/share/en-us/DianaVojevodina-4064/731058F9C9F67613?sharingId=51CD99EBD70C429E
+
+## Current Goals
+- Continue building practical data analytics projects
+- Strengthen my skills in SQL, Python, and visualisation tools
+- Transition into a data analytics role
+- Combine my healthcare background with analytical skills to contribute to meaningful, data-driven work
+
+## Projects
+I will be sharing projects here as I continue learning and developing my portfolio.
+
+## Connect With Me
+- LinkedIn: [[Add your LinkedIn link](https://www.linkedin.com/in/diana-vojevodina/)]
+- Email: [diana.vojevodina@gmail.com]
