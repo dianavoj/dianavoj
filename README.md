@@ -1,7 +1,7 @@
 # Hi, Diana here 
 ![Static Badge](https://img.shields.io/badge/healthcare%20--%3E%20-data%20analytics-pink)
 
-Experienced healthcare professional currently transitioning into **data analytics**.  
+**Data analyst** with a background in healthcare. Passionate about workflow improvement, data-driven decision making and continuous learning and growth.   
 ## :sparkles:Connect With Me
 :email: [LinkedIn](https://www.linkedin.com/in/diana-vojevodina/)  
 :email: [Email me](mailto:diana.vojevodina@gmail.com)
@@ -14,15 +14,18 @@ Why Data Analytics? :bar_chart:
  
 Currently improving my skills in data cleaning, data analysis, statistics, and data visualisation.
 
-## :arrow_up:Current Learning stack 
+## :arrow_up:Currently Enrolled in: 
 - Complete Data Analyst Bootchamp
-- EPAM campus Data Software Engineering Program
-- AI Foundations Program
 
 ## :books:Skills 
 - SQL
 - Python
 - Excel
+- Power BI
+- Tableau
+- Snowflake
+- AWS
+- Azure
 
 ## :ballot_box_with_check:Certifications 
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)[Azure Data Fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/DianaVojevodina-4064/731058F9C9F67613?sharingId=51CD99EBD70C429E)
@@ -30,9 +33,8 @@ Currently improving my skills in data cleaning, data analysis, statistics, and d
 ## :sparkles:Current Goals 
 - Continue expanding practical data analytics projects
 - Strengthen my skills in SQL, Python, and visualisation tools
-- Transition into a data analytics role
 - Combine my healthcare background with analytical skills to contribute to meaningful, data-driven work
 
 ## :sparkles:Projects
-
+- AI GP receptionist ROI
 
