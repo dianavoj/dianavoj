@@ -12,7 +12,7 @@ Why Data Analytics? :bar_chart:
 - work in a field with continuous growth and opportunities
 
  
-Currently building my skills in data cleaning, data analysis, statistics, and data visualisation.
+Currently improving my skills in data cleaning, data analysis, statistics, and data visualisation.
 
 ## :arrow_up:Current Learning stack 
 - Complete Data Analyst Bootchamp
@@ -28,12 +28,11 @@ Currently building my skills in data cleaning, data analysis, statistics, and da
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)[Azure Data Fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/DianaVojevodina-4064/731058F9C9F67613?sharingId=51CD99EBD70C429E)
 
 ## :sparkles:Current Goals 
-- Continue building practical data analytics projects
+- Continue expanding practical data analytics projects
 - Strengthen my skills in SQL, Python, and visualisation tools
 - Transition into a data analytics role
 - Combine my healthcare background with analytical skills to contribute to meaningful, data-driven work
 
 ## :sparkles:Projects
-I will be sharing projects here as I continue learning and developing my portfolio.
 
 
